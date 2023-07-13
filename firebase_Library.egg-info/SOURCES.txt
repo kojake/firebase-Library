@@ -1,0 +1,7 @@
+setup.py
+firebase_Library.egg-info/PKG-INFO
+firebase_Library.egg-info/SOURCES.txt
+firebase_Library.egg-info/dependency_links.txt
+firebase_Library.egg-info/top_level.txt
+init_main/__init__.py
+init_main/firebaseLibrary.py
