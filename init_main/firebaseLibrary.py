@@ -42,7 +42,6 @@ def transactionData(Path, destination_path):
     ref.transaction(destination_path)
 
 #その他
-
 #firebaseに書き込み(jsondata)
 def uploadJsonData(json_file_path, destination_path):
     with open(json_file_path, 'r') as f:
